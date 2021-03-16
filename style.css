@@ -7,3 +7,11 @@
 body {
   background-color: blanchedalmond;
 }
+
+.heading2 {
+  background-color: white;
+  padding: 5px;
+  color: crimson;
+  width: 25%;
+  border: solid black 2px;
+}
